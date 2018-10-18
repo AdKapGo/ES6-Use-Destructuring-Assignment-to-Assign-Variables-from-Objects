@@ -1,5 +1,5 @@
 # ES6-Use-Destructuring-Assignment-to-Assign-Variables-from-Objects
-Here is my solution that I came up with for the 
+Here is my solution for the 
 "ES6: Use Destructuring Assignment to Assign Variables from Objects" challenge on freeCodeCamp.org.  
 
 const AVG_TEMPERATURES = {
